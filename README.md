@@ -2,7 +2,7 @@
 闪电贷
 
 学习第一笔闪电贷参考
-https://github.com/wenzhenxiang/flashLoan/blob/main/hecoFirstFlash.sol
+https://xiangganzi.gitbook.io/flashloan/
 
 
 目前已支持heco链借贷三傻与xcom借贷平台的清算功能(只支持以下币种的借贷清算，hbtc,eth,husd,usdt,mdx,ht,hltc,hfil)
